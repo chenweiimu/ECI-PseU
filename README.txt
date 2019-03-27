@@ -1,8 +1,8 @@
-ECL-PseU: ensemble classifier identifying-Pseudouridine sites
+ECL-PseU: effective classifier identifying-Pseudouridine sites
 
 	The current version supports H. sapiens, S. cerevisiae and M. musculus three species.
 
-	requirements£ºsklearn  0.20.3  pandas 0.23.4
+	requirementsÂ£Âºsklearn  0.20.3  pandas 0.23.4
 
 usage:
 	python ECL-PseU -i input.file -o output.file -s 0
